@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "username": "user1",
+    "password": "password1",
+    "balance": 828
+  },
+  {
+    "id": "2",
+    "username": "user2",
+    "password": "password2",
+    "balance": 670
+  },
+  {
+    "id": "3",
+    "username": "user3",
+    "password": "password3",
+    "balance": 911
+  },
+  {
+    "id": "4",
+    "username": "user4",
+    "password": "password4",
+    "balance": 410
+  },
+  {
+    "id": "5",
+    "username": "user5",
+    "password": "password5",
+    "balance": 711
+  },
+  {
+    "id": "78d9355c-4759-4fb0-8a76-22a7fc3c129f",
+    "username": "user7",
+    "password": "password7",
+    "balance": 13060
+  },
+  {
+    "id": "543f3b36-4c4a-433d-a692-2d6083305ebe",
+    "username": "user6",
+    "password": "password6",
+    "balance": 7360
+  },
+  {
+    "id": "89d7f297-d358-4c38-bc32-ae343fc1e528",
+    "username": "test123",
+    "password": "test123",
+    "balance": 101100
+  },
+  {
+    "id": "12194993-115d-4c8a-897e-aa5ed31dbd15",
+    "username": "test234",
+    "password": "test234",
+    "balance": 8800
+  }
+]
